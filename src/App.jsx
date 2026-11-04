@@ -23,7 +23,9 @@ function App() {
       </button>
 
       <p>Edit <code>src/App.jsx</code> and save to test <code>HMR</code></p>
+      <small>Click on the  <b>Vite</b> and <b>React</b> logos to learn more</small>
     </div>
+   
   );
 }
 
